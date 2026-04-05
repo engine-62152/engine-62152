@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello
+engine-62152 is not automatically generated username, it's my discord username.
+
+### To-do list:
+1. Modpack manager
+2. Make a part pack
 
 <!--
 **engine-62152/engine-62152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
