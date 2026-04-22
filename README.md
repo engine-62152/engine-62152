@@ -2,7 +2,7 @@
 engine-62152 is not automatically generated username, it's my discord username.
 
 ### To-do list:
-1. Modpack manager
+1. Modpack manager (Should be done by May 4)
 2. Make a part pack
 
 <!--
