@@ -1,5 +1,5 @@
 ## Hello
-engine-62152 is not automatically generated username, it's my discord username.
+engine-62152 is not an automatically generated username, it's my discord username.
 
 ### To-do list:
 1. Modpack manager (I'm making a new one)
